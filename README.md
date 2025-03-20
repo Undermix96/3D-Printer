@@ -2,7 +2,10 @@
 Notes about my 3D Printer journey
 
 # Useful Links
-
+- [Bear Lab](https://guides.bear-lab.com/)
+  - [Prusa i3 Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+  - [Bear Extruder and X Axis](https://github.com/gregsaun/bear_extruder_and_x_axis)
+  - [Printer Calibration](https://guides.bear-lab.com/c/Printer_Calibration)
 
 # To-Do
  - [ ] Resonance Compesation with 2 Sensor
