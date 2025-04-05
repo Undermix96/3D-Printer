@@ -36,11 +36,11 @@ Notes about my 3D Printer journey
 | Accelerometer | MPU-9250 | 5.00€ | Aliexpress |
 | | | | |
 | Hotend | Volcano Upgrade + 4x Nozzles | 41.13€ | [Amazon](https://amzn.eu/d/cslXWzX) |
-| Hotend | Silicone Sleeve for Volcano | | |
-| Thermistor | PT1000 | | |
+| Hotend | Silicone Sleeve for Volcano | 10.52€ | [Amazon](https://amzn.eu/d/7oBJZNq) |
+| Thermistor | PT1000 | 17.03€ | [Amazon](https://amzn.eu/d/7IsRVP3) |
 | | | | |
-| PSU | 24V | | |
-| Heater Cartridge | 24V 40W | | |
+| PSU | 24V 400W (min) | 40.00€ | [Amazon](https://amzn.eu/d/752sOHk) |
+| Heater Cartridge | 24V 40W | 12.50€ | [Amazon](https://amzn.eu/d/1euOv9T) |
 | Fans | 24V Fans | | |
 | | | | |
 | Heatbed | 24V 220W 310x310x3mm | 30.00€ | Aliexpress |
