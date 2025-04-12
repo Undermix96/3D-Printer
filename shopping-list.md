@@ -17,5 +17,10 @@
 ### Cable & Connectors
 | Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| 22AWG Filo 10 Metri 4x0,32mm² | 1 | 11.99€ | 11.99€ | https://amzn.eu/d/6Izevl7 |
-| JST PH 2,0 mm 6-Pin Connettore 50 pcs | 1 | 10.39€ | 10.39€ | https://amzn.eu/d/cVJfJTj |
+| 22AWG Cable 10m 4x0,32mm² | 1 | 11.99€ | 11.99€ | https://amzn.eu/d/6Izevl7 |
+| JST PH 2,0 mm 6-Pin connectors 50 pcs | 1 | 10.39€ | 10.39€ | https://amzn.eu/d/cVJfJTj |
+
+### Tools
+| Parts | Q.ty | Price/pcs | Total Price | Link |
+| :---- | :--: | :-------: | :---------: | :--- |
+| Brush for manual nozzle cleaning | 1 | 6.19€ | 6.19€ | https://amzn.eu/d/gTLwGhf |
