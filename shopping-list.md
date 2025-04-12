@@ -13,3 +13,9 @@
 | Copper Heating Block | 1 | 14.41€ | 14.41€ | https://amzn.eu/d/8kFlgkn |
 | High Flow Extender | 1 | 10.28€ | 10.28€ | https://amzn.eu/d/23p7u1m |
 | Nozzle Pack 0.25 0.4 0.6 0.8 | 1 | 12.76€ | 12.76€ | https://amzn.eu/d/fZyBztx |
+
+### Cable & Connectors
+| Parts | Q.ty | Price/pcs | Total Price | Link |
+| :---- | :--: | :-------: | :---------: | :--- |
+| 22AWG Filo 10 Metri 4x0,32mm² | 1 | 11.99€ | 11.99€ | https://amzn.eu/d/6Izevl7 |
+| JST PH 2,0 mm 6-Pin Connettore 50 pcs | 1 | 10.39€ | 10.39€ | https://amzn.eu/d/cVJfJTj |
