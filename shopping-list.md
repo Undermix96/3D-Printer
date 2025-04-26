@@ -3,9 +3,9 @@
 ### 24V upgrade
 | Essential Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| PSU 24V 10A | 1 | 21.99€ | 21.99€ | https://amzn.eu/d/98ACVGW |
-| Heating Cartridge 24V 60W | 1 | 9.82€ | 9.82€ | https://amzn.eu/d/fPc1Qdf |
-| ~Mosfet~ | ~2~ | ~7.99€~ | ~15.98€~ | ~https://amzn.eu/d/gC0cth3~ |
+| PSU 24V 10A | 1 | 21.99€ | 21.99€ | [Amazon](https://amzn.eu/d/98ACVGW) |
+| Heating Cartridge 24V 60W | 1 | 9.82€ | 9.82€ | [Amazon](https://amzn.eu/d/fPc1Qdf) |
+| ~Mosfet~ | ~2~ | ~7.99€~ | ~15.98€~ | ~[Amazon](https://amzn.eu/d/gC0cth3)~ |
 
 | Premium Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
@@ -21,18 +21,18 @@
 ### Hotend Upgrade
 | Better/Higher Temp Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| Copper Heating Block | 1 | 14.41€ | 14.41€ | https://amzn.eu/d/8kFlgkn |
+| Copper Heating Block | 1 | 14.41€ | 14.41€ | [Amazon](https://amzn.eu/d/8kFlgkn) |
 | ~Thermistor PT1000~ | ~1~ | ~17.03€~ | ~17.03€~ | ~[Amazon](https://amzn.eu/d/7IsRVP3)~ |
 
 | Higher Vol. Flow Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| High Flow Extender | 1 | 10.28€ | 10.28€ | https://amzn.eu/d/23p7u1m |
+| High Flow Extender | 1 | 10.28€ | 10.28€ | [Amazon](https://amzn.eu/d/23p7u1m) |
 | Volcano Upgrade + 4x Nozzles | 1 | 41.13€ | 41.13€ | [Amazon](https://amzn.eu/d/cslXWzX) |
 | Silicone Sleeve for Volcano | 1 | 10.52€ | 10.52€ | [Amazon](https://amzn.eu/d/7oBJZNq) |
 
 | Various Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| Nozzle Pack 0.25 0.4 0.6 0.8 | 1 | 12.76€ | 12.76€ | https://amzn.eu/d/fZyBztx |
+| Nozzle Pack 0.25 0.4 0.6 0.8 | 1 | 12.76€ | 12.76€ | [Amazon](https://amzn.eu/d/fZyBztx) |
 
 ### Cable, Connectors & Electronics
 | Parts | Q.ty | Price/pcs | Total Price | Link |
@@ -41,10 +41,10 @@
 | ~BL Touch Geeetech 3D Touch~ | ~1~ | ~17.99€~ | ~17.99€~ | ~[Amazon](https://amzn.eu/d/eYLPaeV)~ |
 | Trust Tanor 1080p Camera | 1 | 19.99€ | 19.99€ | [Amazon](https://amzn.eu/d/auxyUkP) |
 | Accelerometer MPU-9250 | 1 | 5.00€ | 5.00€ | Aliexpress |
-| 22AWG Cable 10m 4x0,32mm² | 1 | 11.99€ | 11.99€ | https://amzn.eu/d/6Izevl7 |
-| JST PH 2,0 mm 6-Pin connectors 50 pcs | 1 | 10.39€ | 10.39€ | https://amzn.eu/d/cVJfJTj |
+| 22AWG Cable 10m 4x0,32mm² | 1 | 11.99€ | 11.99€ | [Amazon](https://amzn.eu/d/6Izevl7) |
+| JST PH 2,0 mm 6-Pin connectors 50 pcs | 1 | 10.39€ | 10.39€ | [Amazon](https://amzn.eu/d/cVJfJTj) |
 
 ### Tools
 | Parts | Q.ty | Price/pcs | Total Price | Link |
 | :---- | :--: | :-------: | :---------: | :--- |
-| Brush for manual nozzle cleaning | 1 | 6.19€ | 6.19€ | https://amzn.eu/d/gTLwGhf |
+| Brush for manual nozzle cleaning | 1 | 6.19€ | 6.19€ | [Amazon](https://amzn.eu/d/gTLwGhf) |
