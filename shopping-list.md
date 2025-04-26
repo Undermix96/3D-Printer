@@ -5,7 +5,7 @@
 | :---- | :--: | :-------: | :---------: | :--- |
 | PSU 24V 10A | 1 | 21.99€ | 21.99€ | https://amzn.eu/d/98ACVGW |
 | Heating Cartridge 24V 60W | 1 | 9.82€ | 9.82€ | https://amzn.eu/d/fPc1Qdf |
-| Mosfet | 2 | 7.99€ | 15.98€ | https://amzn.eu/d/gC0cth3 |
+| ~Mosfet~ | ~2~ | ~7.99€~ | ~15.98€~ | ~https://amzn.eu/d/gC0cth3~ |
 
 ### Hotend Upgrade
 | Parts | Q.ty | Price/pcs | Total Price | Link |
