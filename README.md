@@ -1,6 +1,10 @@
 # 3D-Printer
 Notes about my 3D Printer journey
 
+# Index
+- [Calibration Steps](calibration.md)
+- [Shopping List](shopping-list.md)
+
 # Useful Links
 - [Bear Lab](https://guides.bear-lab.com/)
   - [Prusa i3 Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
@@ -25,25 +29,3 @@ Notes about my 3D Printer journey
 
 # Nice to Have
  - [ ] MMU (EnragedRabbit)
-
-
-# BOM
-| Part | Model | Price | Link |
-| ---- | ----- | ----- | ---- |
-| BL Touch | Geeetech 3D Touch | 17.99€ | [Amazon](https://amzn.eu/d/eYLPaeV) |
-| Camera | Trust Tanor 1080p | 19.99€ | [Amazon](https://amzn.eu/d/auxyUkP) |
-| Accelerometer | MPU-9250 | 5.00€ | Aliexpress |
-| | | | |
-| Control Board | SKR V1.4 + 5x TMC2209 | 38.00€ | [Biqu Store](https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3?variant=39564431294562) |
-| | | | |
-| Hotend | Volcano Upgrade + 4x Nozzles | 41.13€ | [Amazon](https://amzn.eu/d/cslXWzX) |
-| Hotend | Silicone Sleeve for Volcano | 10.52€ | [Amazon](https://amzn.eu/d/7oBJZNq) |
-| Thermistor | PT1000 | 17.03€ | [Amazon](https://amzn.eu/d/7IsRVP3) |
-| | | | |
-| PSU | 24V 400W (min) | 40.00€ | [Amazon](https://amzn.eu/d/752sOHk) |
-| Heater Cartridge | 24V 40W | 12.50€ | [Amazon](https://amzn.eu/d/1euOv9T) |
-| Fans | 24V Fans | | |
-| | | | |
-| Heatbed | 24V 220W 310x310x3mm | 30.00€ | Aliexpress |
-| Bed Carriage | For 310x310 Bed | 22.00€ | Aliexpress |
-| Print Surface | PEI for 310x310 Bed | 15.00€ | Aliexpress|
