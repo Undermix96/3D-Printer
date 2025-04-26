@@ -1,12 +1,12 @@
 # Calibration Steps
 
 ## Axis Twist Compensation
-For X Axis Compesation run:
+For X Axis Compensation run:
 ```
 AXIS_TWIST_COMPENSATION_CALIBRATE
 ```
 
-For Y Axis Compesation run:
+For Y Axis Compensation run:
 ```
 AXIS_TWIST_COMPENSATION_CALIBRATE AXIS=Y
 ```
@@ -30,3 +30,13 @@ Use probe-based bed leveling with [Screws Tilt Adjust](https://www.klipper3d.org
 
 ## Bed Mesh
 Do a Bed Mesh.
+
+## First Time Calibration
+### Resonance Compensation
+[Link](https://www.klipper3d.org/Resonance_Compensation.html)
+
+### Ellis' Print Tuning Guide
+- [First Layer Squish](https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html)
+- [Pressure Advance (Pattern Method)](https://ellis3dp.com/Print-Tuning-Guide/articles/pressure_linear_advance/pattern_method.html)
+- [Retraction](https://ellis3dp.com/Print-Tuning-Guide/articles/retraction.html)
+- [Infill/Perimeter Overlap](https://ellis3dp.com/Print-Tuning-Guide/articles/infill_perimeter_overlap.html)
