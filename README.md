@@ -11,9 +11,9 @@ Notes about my 3D Printer journey
 # To-Do
  - [ ] Resonance Compesation with 2 Accelerometer (MPU-9250) (10.00€)
  - [ ] Pressure Advance
- - [ ] BL Touch Sensor (18.00€)
-   - [ ] for Bed Leveling
-   - [ ] for Bed Mesh
+ - [x] BL Touch Sensor (18.00€)
+   - [x] for Bed Leveling
+   - [x] for Bed Mesh
  - [ ] Camera for Remote Monitoring (20.00€)
  - [ ] New Control Board (38.00€)
  - [ ] Single-Motor Dual-Rod Z Axis
