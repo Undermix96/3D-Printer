@@ -42,30 +42,23 @@ https://github.com/PierreMasselot1/Material-Switching-Unit.git
 | Part name | Links | Pcs in pack | Pcs needed | AMAZON Price | ALIEXPRESS Price |
 | --------- | ----- | ----------- | ---------- | ------------ | ---------------- |
 | 608 ball bearings| [Amazon](https://amzn.to/3ePrE0i)|10|6|7.99€|
-| 608 ball bearings|[https://aliexpi.com/Ep3X](https://aliexpi.com/Ep3X)|10|6|7.99€|
+| 608 ball bearings|Aliexpress|10|6||2.25€|
 |Heated inserts M3|[Amazon](https://amzn.eu/d/fATbFAP)|100|~10|11.99€|
-|Heated inserts M3||100|~10|11.99€|
+|Heated inserts M3|Aliexpress|50|~10||5.93€|
 |M3 and M2 bolts and nuts||0|~20||
 |M3 and M2 bolts and nuts||0|~20||
 |PTFE tubing<br/> PC4-M10<br/> PC4-M6|[Amazon](https://amzn.eu/d/dDg1xl9)|5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs|12.99€|
-|PTFE tubing<br/> PC4-M10<br/> PC4-M6||5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs|12.99€|
+|PTFE tubing<br/> PC4-M10<br/> PC4-M6||5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs||4.59|
 |5mm to 5mm coupler|[Amazon](https://amzn.eu/d/3hCXTgr)|2|1|8.99€|
-|5mm to 5mm coupler||2|1|8.99€|
+|5mm to 5mm coupler||1|1||2.27€|
 |Metal rod 5mmx124mm |[Amazon](https://amzn.eu/d/8sfLF4U)|3|2|10.99€|
-|Metal rod 5mmx124mm ||3|2|10.99€|
+|Metal rod 5mmx124mm ||1|2||7.55€|
 |MK8 gears with filament groove|[Amazon](https://amzn.eu/d/3KFrPp5)|5|5|11.29€|
-|MK8 gears with filament groove||5|5|11.29€|
+|MK8 gears with filament groove||5|5||2.59€|
 |Nema 17 stepper motor||1|1||
 |Nema 17 stepper motor||1|1||
-|Servo|[Amazon](https://amzn.eu/d/hK2bRJG)|1|1|13.99€|
-|Servo||1|1|13.99€|
+|Servo|[Amazon](https://amzn.eu/d/hK2bRJG)|1|1|13.99€|13.99€|
+|Servo||1|1||
 |Idler springs|[Amazon](https://amzn.eu/d/2YAjNvb)<br/>|1|2|10.99€|
-|Idler springs||1|2|10.99€|
-
-
-| | | [**Direct drive version**]<br/>for the direct drive version you will only need one extra stepper motor, see NEMA 17 stepper above[**/Direct drive version**]||||
-| | |[**Direct drive version linked extruders**]<br/>for this version you will also need  the extra stepper driver but also a stepper motor splitter linked below[**/Direct drive version linked extruders**]||||
-|Stepper parallel module|[![61ma7umi-Js-L-SL1001.jpg](https://i.postimg.cc/66HkP8gT/61ma7umi-Js-L-SL1001.jpg)](https://postimg.cc/SjM12xyp)|https://amzn.to/3hNCplH|3|1||
-|total bowden ||||||
-|total direct drive|||||89.22€|
-|total direct drive linked extruder||||||
+|Idler springs||10|2||3.59€|
+|total direct drive||||89.22€|50.31€|
