@@ -42,23 +42,20 @@ https://github.com/PierreMasselot1/Material-Switching-Unit.git
 | Part name | Links | Pcs in pack | Pcs needed | AMAZON Price | ALIEXPRESS Price |
 | --------- | ----- | ----------- | ---------- | ------------ | ---------------- |
 | 608 ball bearings| [Amazon](https://amzn.to/3ePrE0i)|10|6|7.99€|
-| 608 ball bearings|Aliexpress|10|6||2.25€|
+| 608 ball bearings| [Aliexpress](https://it.aliexpress.com/item/1005005511187974.html) 608zz 10Pz.|10|6||2.25€|
 |Heated inserts M3|[Amazon](https://amzn.eu/d/fATbFAP)|100|~10|11.99€|
-|Heated inserts M3|Aliexpress|50|~10||5.93€|
-|M3 and M2 bolts and nuts||0|~20||
+|Heated inserts M3|[Aliexpress](https://it.aliexpress.com/item/1005003582355741.html) 3mm(50pcs)/M3(OD4.2mm) <br/> + <br/> [Aliexpress](https://it.aliexpress.com/item/1005005962679263.html) Copper Guide Head|50|~10||5.93€|
 |M3 and M2 bolts and nuts||0|~20||
 |PTFE tubing<br/> PC4-M10<br/> PC4-M6|[Amazon](https://amzn.eu/d/dDg1xl9)|5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs|12.99€|
-|PTFE tubing<br/> PC4-M10<br/> PC4-M6||5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs||4.59|
+|PTFE tubing<br/> PC4-M10<br/> PC4-M6|[Aliexpress](https://it.aliexpress.com/item/1005006863731010.html) White Kit|5m<br/>10 pcs<br/>10 pcs|0.5m<br/>1 pcs<br/>1pcs||4.59|
 |5mm to 5mm coupler|[Amazon](https://amzn.eu/d/3hCXTgr)|2|1|8.99€|
-|5mm to 5mm coupler||1|1||2.27€|
+|5mm to 5mm coupler|[Aliexpress](https://it.aliexpress.com/item/1005001538408571.html) 5x5 Blue|1|1||2.27€|
 |Metal rod 5mmx124mm |[Amazon](https://amzn.eu/d/8sfLF4U)|3|2|10.99€|
-|Metal rod 5mmx124mm ||1|2||7.55€|
+|Metal rod 5mmx124mm |[Aliexpress](https://it.aliexpress.com/item/1005001588669765.html) 5x138mm-GrindFlat|1|2||7.55€|
 |MK8 gears with filament groove|[Amazon](https://amzn.eu/d/3KFrPp5)|5|5|11.29€|
-|MK8 gears with filament groove||5|5||2.59€|
-|Nema 17 stepper motor||1|1||
+|MK8 gears with filament groove|[Aliexpress](https://it.aliexpress.com/item/33001874597.html) MK8/5Pcs|5|5||2.59€|
 |Nema 17 stepper motor||1|1||
 |Servo|[Amazon](https://amzn.eu/d/hK2bRJG)|1|1|13.99€|13.99€|
-|Servo||1|1||
 |Idler springs|[Amazon](https://amzn.eu/d/2YAjNvb)<br/>|1|2|10.99€|
-|Idler springs||10|2||3.59€|
+|Idler springs|[Aliexpress](https://it.aliexpress.com/item/1005002799102318.html) 1.0mm/10mm(10Pcs)/5mm|10|2||3.59€|
 |total direct drive||||89.22€|50.31€|
