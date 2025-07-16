@@ -10,3 +10,10 @@
 - A4T Toolhead by Armchair Heavy Industries
 - Jabberwocky Toolhead + Extruder
 - HeroMe Gen7 by MediaMan3D
+
+## Extruder
+- Picolino Extruder by m_IDEX
+- Galileo 2 Extruder by JaredC01
+- Orbiter V2.5 Extruder by Lorincz Robby
+- Sherpa Mini Extruder by Annex Engineering
+- Rainbow Dragon by chirpy2605
