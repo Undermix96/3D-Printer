@@ -15,3 +15,5 @@
 | Shaft 25 x 5 mm | 2 |
 | Idler Pulley 2GT 20T 6mm - 5mm Bore | 3 |
 | 2GT 6mm Belt 1.2m+ | 1 |
+| EBB42 board | 2 | | 26€ |
+| CAN U2C board | 1 | 14€ | |
