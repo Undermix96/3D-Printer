@@ -10,6 +10,8 @@
 | Shipping | | | 15.84€ |
 | **TOTAL** | | | **41.98 €** |
 
+## BOM Aliexpress.com
+
 | Motion | Quantity | Unit Price | Total Price |
 | ---- | :------: | :--------: | :---------: |
 | MGN12H 430mm | 1 | 10 € | 10 € |
@@ -32,3 +34,14 @@
 | 5015 Radial Fan | 4 | 2.35€ (2pcs.) | 4.70€ |
 | Endstop 13.5mm lever | 3 | 2.11€ (20pcs.) | 2.11€ |
 | **TOTAL** | | | **10.43€** |
+
+## Grand Total
+Frame: 41.98 €
+
+Motion: 43.01 €
+
+Control: 40.00 €
+
+Hotend: 10.43 €
+
+**Total: 135.42 €**
